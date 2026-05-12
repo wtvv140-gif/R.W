@@ -23,19 +23,19 @@ body {
 }
 
 .custom-navbar .navbar-brand {
-  color: #f2c230 !important;
+  color: #f2c230 t;
   font-size: 1.5rem;
   font-weight: bold;
 }
 
 .custom-navbar .nav-link {
-  color: #ffffff !important;
+  color: #ffffff ;
   margin: 0 10px;
 }
 
 .custom-navbar .nav-link:hover,
 .custom-navbar .nav-link.active {
-  color: #f2c230 !important;
+  color: #f2c230 ;
 }
 
 /* Hero Section */
